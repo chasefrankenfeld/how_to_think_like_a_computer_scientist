@@ -1,0 +1,13 @@
+  1 My first file written from Python
+  2 ---------------------------------
+  3 Hello, world!
+  4 This shit is cray snake
+  5 da
+  6 snakes on a plane
+  7 snake
+  8 
+  9 snake
+ 10 dasfas
+ 11 boom goes the weasel
+ 12 Damn! That snake is big!
+ 13 Woah man! That snake is killing it.
