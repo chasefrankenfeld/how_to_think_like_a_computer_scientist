@@ -16,7 +16,7 @@ class Point:
     def __mul__(self, other):
         return self.x * other.x + self.y * other.y
 
-    def __rmul__(self, other):
+    def __rmul__(self, other):\
         return Point(other * self.x, other * self.y)
 
     def reverse(self):
